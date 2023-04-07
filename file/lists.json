@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "name": "Bangladesh",
+    "capital": "Dhaka"
+  },
+  {
+    "id": 2,
+    "name": "India",
+    "capital": "New dellhi"
+  },
+  {
+    "id": 3,
+    "name": "Pakistan",
+    "capital": "Islamabad"
+  },
+  {
+    "id": 4,
+    "name": "Nepal",
+    "capital": "Katmandu"
+  },
+  {
+    "id": 5,
+    "name": "Sri Lanka",
+    "capital": "Mahela Jayabardhana"
+  }
+]
