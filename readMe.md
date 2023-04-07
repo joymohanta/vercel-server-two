@@ -1,3 +1,3 @@
 ### LINK
 
-[https://vercel-server-two.vercel.app/]
+[https://vercel-server-two.vercel.app/lists]
